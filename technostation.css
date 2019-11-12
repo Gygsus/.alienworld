@@ -1,0 +1,196 @@
+
+body {
+	 padding: 0px;
+	 margin: 0px;
+	 background-color: white;
+	 background-image: url("https://live.staticflickr.com/5219/5436444822_66525ce22d_b.jpg");
+	 background-repeat: repeat;
+	 }
+	 
+#head {
+  height: 20%;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2%;
+	background-color: #0c36e6de;
+}
+
+#content {
+	
+    height: auto;
+	width: auto;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding: 0.5%;
+	background-color: #ffffff1f;
+	border: 5px solid #0c36e6de;
+	border-radius: 10px;
+
+}
+
+#footer {
+	
+	margin-top: 10%;
+    height: 10%;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2%;
+	background-color: #0c36e6de;
+
+}
+
+p {
+	text-align: left;
+	font-family: 'Blinker', sans-serif; font-family: 'Red Hat Display', sans-serif;
+    color: white;
+    text-decoration: none;
+	margin: 2%;
+	
+	
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Blinker', sans-serif; font-family: 'Red Hat Display', sans-serif;
+    color: white;
+    text-decoration: none;
+	
+}
+		
+	
+	
+h2 {
+	
+	text-align: center;
+	font-family: 'Blinker', sans-serif; font-family: 'Red Hat Display', sans-serif;
+    color: white;
+    text-decoration: none;
+	border: 2px solid #ffffff4a;
+	border-radius: 10px;
+	padding: 1%;
+	margin-left: 30%;
+	margin-right: 30%;
+	background-color: transparent;
+		
+}
+
+
+
+a {
+	font-family: 'Blinker', sans-serif; font-family: 'Red Hat Display', sans-serif;
+    color: white;
+    text-decoration: none;
+	text-align: center;
+	
+}
+
+hr {
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  border-radius: 5px 5px 0px 0px;
+  background-color: #0c36e6de;
+}
+
+
+li {
+  float: left;
+  border-right: 2px solid #ffffff4a;
+}
+
+
+li:last-child {
+  border-right: none;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover:not(.active) {
+  background-color: red;
+}
+
+
+a.ap {
+	border-left: 3px solid #5f9efc;
+	margin-left: 2%;
+	padding-left: 5px;
+	
+	
+	
+}
+
+
+.text-area {
+	margin-top: 2%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 0%;
+	
+}
+
+
+.img-text {
+	margin-top: 0%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 0%;
+	border: 2px solid blue;
+}
+
+
+img {
+	margin: 2%;
+	padding: 1%;
+	border: 2px solid blue;
+	width: 300px;
+	height: 200px;
+	float: right;
+}
+
+
+.nikoautamua {
+	text-align: left;
+}
+
+
+.kysely-juuso {
+	margin-top: 0%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 0%;
+	padding-top: 2%;
+}
+
+.profilepicture {
+	background-image: url("https://vignette.wikia.nocookie.net/cry-of-fear/images/a/a4/Sewmo.png/revision/latest?cb=20131129220051");
+	background-repeat: no-repeat;
+	height: 120px;
+	width: auto;
+}
+
+
+.gif-image {
+	border: 0px solid;
+	width: 200px;
+	height: 180px;
+	margin: 5%;
+	padding: 1px;
+}
