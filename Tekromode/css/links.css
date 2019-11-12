@@ -1,0 +1,159 @@
+
+body {
+	 padding: 0px;
+	 margin: 0px;
+	 background-color: white;
+	 background-image: url("https://storage.needpix.com/rsynced_images/grid-1004429_1280.jpg");
+	 background-repeat: repeat;
+	 }
+	 
+#head {
+  height: 20%;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2%;
+	background-color: #0cc3e6;
+}
+
+#content {
+	
+    height: auto;
+	width: auto;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 20%;
+	margin-right: 20%;
+	padding: 0.5%;
+	background-color: white;
+	border: 5px solid #0cc3e6;
+	border-radius: 10px;
+
+}
+
+#footer {
+	
+	margin-top: 10%;
+    height: 10%;
+	width: auto;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 2%;
+	background-color: #0cc3e6;
+
+}
+
+p {
+	text-align: left;
+	font-family: 'Blinker', sans-serif; font-family: 'Red Hat Display', sans-serif;
+    color: black;
+    text-decoration: none;
+	margin: 2%;
+	
+	
+}
+
+h1 {
+	text-align: center;
+	font-family: 'Blinker', sans-serif; font-family: 'Red Hat Display', sans-serif;
+    color: white;
+    text-decoration: none;
+	
+}
+		
+	
+	
+h2 {
+	
+	text-align: center;
+	font-family: 'Blinker', sans-serif; font-family: 'Red Hat Display', sans-serif;
+    color: #0cc3e6;
+    text-decoration: none;
+	border: 2px solid #0cc3e6;
+	border-radius: 10px;
+	padding: 1%;
+	margin-left: 30%;
+	margin-right: 30%;
+	background-color: #e4f7ff;
+		
+}
+
+
+
+a {
+	font-family: 'Blinker', sans-serif; font-family: 'Red Hat Display', sans-serif;
+    color: white;
+    text-decoration: none;
+	text-align: center;
+	
+}
+
+hr {
+	height: 4px;
+   background-color: white;
+   border-radius: 50px;
+   border-color: rgb(3, 255, 185);
+   border-width: 1px;
+	
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+  overflow: hidden;
+  border-radius: 5px 5px 0px 0px;
+  background-color: #0cc3e6;
+}
+
+
+li {
+  float: left;
+  border-right: 2px solid white;
+}
+
+
+li:last-child {
+  border-right: none;
+}
+
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover:not(.active) {
+  background-color: red;
+}
+
+
+a.ap {
+	border-left: 3px solid red;
+	margin-left: 2%;
+	padding-left: 5px;
+	
+}
+
+
+a.j01 {
+	color: blue;
+	text-align: center;
+	
+}
+
+
+div.toiminytjumalauta {
+	margin: 2%;
+	padding: 2%;
+	border: 1px solid #0cc3e6;
+	border-radius: 10px;
+	
+}
+
